@@ -5,7 +5,7 @@
         <div class="banner-carousel owl-theme owl-carousel text-center">
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(/images/slides/v2-1.jpg)"></div>
+                <div class="image-layer" style="background-image:url(/images/slides/v2-1.jpg?=1)"></div>
                 <div class="auto-container">
                     <div class="content">
                         <div class="title thm-clr1">Come & Let’s Enjoy Our Best</div>
@@ -20,7 +20,7 @@
             </div>
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(/images/slides/v2-2.jpg)"></div>
+                <div class="image-layer" style="background-image:url(/images/slides/v2-2.jpg?=1)"></div>
                 <div class="auto-container">
                     <div class="content">
                         <div class="title thm-clr1">Come & Let’s Enjoy Our Best</div>
@@ -35,7 +35,7 @@
             </div>
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(/images/slides/v2-3.jpg)"></div>
+                <div class="image-layer" style="background-image:url(/images/slides/v2-3.jpg?=1)"></div>
                 <div class="auto-container">
                     <div class="content">
                         <div class="title thm-clr1">Come & Let’s Enjoy Our Best</div>
@@ -55,61 +55,6 @@
 <!-- End Main Slider -->
 
 
-<!--Start Boats Skipper Form Area-->
-<section class="boats-skipper-form-area thm_bgclr2">
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-12 col-lg-12">
-                <div class="boats-skipper-search-box style2 text-center">
-                    <form class="boats-skipper-form" name="boats-skipper-form" action="#" method="post">
-                        <div class="row">
-                            <div class="col-xl-12">
-                                <div class="input-box">
-                                    <input type="text" name="form_desti" value="" placeholder="Destinations"
-                                        required="">
-                                    <div class="icon-box">
-                                        <span class="flaticon-pin-1"></span>
-                                    </div>
-                                </div>
-                                <div class="input-box">
-                                    <input type="text" name="date" placeholder="Any Date" id="datepicker">
-                                    <div class="icon-box">
-                                        <span class="flaticon-calendar"></span>
-                                    </div>
-                                </div>
-                                <div class="input-box">
-                                    <select class="selectpicker" data-width="100%">
-                                        <option selected="selected">1 Week</option>
-                                        <option>2 Week</option>
-                                        <option>3 Week</option>
-                                        <option>4 Week</option>
-                                        <option>5 Week</option>
-                                    </select>
-                                    <div class="icon-box two">
-                                        <span class="flaticon-clock"></span>
-                                    </div>
-                                </div>
-                                <div class="button-box">
-                                    <button type="submit">Search now</button>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-xl-12">
-                                <div class="need-skipper">
-                                    <input type="checkbox" name="skipper1" id="skipper" checked>
-                                    <label for="skipper"><span></span>Do you need a skipper?</label>
-                                </div>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-<!--End Boats Skipper Form Area-->
 
 <!--Start Create Boats Area-->
 <section class="create-boats-area">
@@ -126,7 +71,7 @@
                     </div>
                     <div class="inner-content">
                         <div class="img-box">
-                            <img src="/images/resources/create-boats-img.jpg" alt="Awesome Image">
+                            <img src="/images/resources/create-boats-img.jpg?=1" alt="Awesome Image">
                         </div>
                         <div class="text-box">
                             <p>There are many variations of passages of Lorem Ipsum available, but the majority have in
@@ -187,7 +132,7 @@
                 <div class="siingle-yachts-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/images/yachts/yachts-1.jpg" alt="Awesome Image">
+                            <img src="/images/yachts/yachts-1.jpg?=1" alt="Awesome Image">
                             <div class="overlay-style-one bg1"></div>
                         </div>
                         <div class="rate-box thm-bgclr1">
@@ -214,7 +159,7 @@
                 <div class="siingle-yachts-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/images/yachts/yachts-2.jpg" alt="Awesome Image">
+                            <img src="/images/yachts/yachts-2.jpg?=1" alt="Awesome Image">
                             <div class="overlay-style-one bg1"></div>
                         </div>
                         <div class="rate-box thm-bgclr1">
@@ -241,7 +186,7 @@
                 <div class="siingle-yachts-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/images/yachts/yachts-3.jpg" alt="Awesome Image">
+                            <img src="/images/yachts/yachts-3.jpg?=1" alt="Awesome Image">
                             <div class="overlay-style-one bg1"></div>
                         </div>
                         <div class="rate-box thm-bgclr1">
@@ -285,17 +230,17 @@
                         <ul>
                             <li>
                                 <div class="single-image">
-                                    <img src="/images/resources/sailing-experience-1.jpg" alt="Awesome Image">
+                                    <img src="/images/resources/sailing-experience-1.jpg?=1" alt="Awesome Image">
                                 </div>
                             </li>
                             <li>
                                 <div class="single-image">
-                                    <img src="/images/resources/sailing-experience-2.jpg" alt="Awesome Image">
+                                    <img src="/images/resources/sailing-experience-2.jpg?=1" alt="Awesome Image">
                                 </div>
                             </li>
                             <li>
                                 <div class="single-image">
-                                    <img src="/images/resources/sailing-experience-3.jpg" alt="Awesome Image">
+                                    <img src="/images/resources/sailing-experience-3.jpg?=1" alt="Awesome Image">
                                 </div>
                             </li>
                         </ul>
