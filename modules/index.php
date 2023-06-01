@@ -163,13 +163,13 @@
                             <div class="overlay-style-one bg1"></div>
                         </div>
                         <div class="rate-box thm-bgclr1">
-                            <h5>$960</h5>
-                            <h6>Week</h6>
+                            <h5>$400</h5>
+                            <h6>8 horas</h6>
                         </div>
                     </div>
                     <div class="title-holder">
-                        <h2><a href="yachts-details.html">Sovereign</a></h2>
-                        <span>Italy Ocean</span>
+                        <h2><a href="yachts-details.html">La burra vieja</a></h2>
+                        <span>Bare boat</span>
                         <div class="meta-box">
                             <ul>
                                 <li><span class="flaticon-art-and-design"></span>89 ft</li>
@@ -217,9 +217,9 @@
 <section class="sailing-experience-area">
     <div class="sec-title black text-center">
         <div class="icon"><span class="flaticon-rudder"></span></div>
-        <p>Let’s live your unique</p>
+        <p>Disfruta de las mejores</p>
         <div class="big-title black">
-            <h1>Sailing Experience</h1>
+            <h1>Experiencias en nuestras embarcaciones</h1>
         </div>
     </div>
     <div class="container">
@@ -249,7 +249,7 @@
                         <p>Lorem Ipsum is simply dummy text of the printing and type setting industry has been the
                             industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
                             of type and scrambled to make a type specimen book. </p>
-                        <a class="btn-one" href="#">Discover More</a>
+                        <a class="btn-one" href="#">Ver barcos</a>
                     </div>
                 </div>
             </div>
@@ -259,36 +259,43 @@
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block">
                             <div class="accord-btn active">
-                                <h4>Can we reserve either for groups or individuals</h4>
+                                <h4>Pregunta 1</h4>
                             </div>
                             <div class="accord-content collapsed">
-                                <p>It has survived not only five centuries but also the leap into electronic type
-                                    setting. lorem ipsum is simply free when an unknown printer took a galley of type
-                                    and scrambled to make specimen book.</p>
+                                <p>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, hic sit.
+                                    Perspiciatis
+                                    quae blanditiis excepturi, accusantium aliquid eius aliquam delectus omnis eos
+                                    libero numquam nam!
+                                </p>
                             </div>
                         </div>
                         <!--End single accordion box-->
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block">
                             <div class="accord-btn">
-                                <h4>Who will be responsible of maintenance of boats</h4>
+                                <h4>Pregunta 2</h4>
                             </div>
                             <div class="accord-content">
-                                <p>It has survived not only five centuries but also the leap into electronic type
-                                    setting. lorem ipsum is simply free when an unknown printer took a galley of type
-                                    and scrambled to make specimen book.</p>
+                                <p>
+                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores ducimus repellat
+                                    dolor, pariatur voluptas neque officiis, necessitatibus debitis et cum atque facilis
+                                    distinctio repellendus facere?
+                                </p>
                             </div>
                         </div>
                         <!--End single accordion box-->
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block">
                             <div class="accord-btn">
-                                <h4>Purchasing records and you want to reward him</h4>
+                                <h4>preguntas 3</h4>
                             </div>
                             <div class="accord-content">
-                                <p>It has survived not only five centuries but also the leap into electronic type
-                                    setting. lorem ipsum is simply free when an unknown printer took a galley of type
-                                    and scrambled to make specimen book.</p>
+                                <p>
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, dignissimos
+                                    voluptatum! Pariatur quae ducimus sapiente? Exercitationem totam magni ipsam
+                                    reiciendis corporis sunt quasi cupiditate expedita!
+                                </p>
                             </div>
                         </div>
                         <!--End single accordion box-->
@@ -303,7 +310,8 @@
 
 
 <!--Start Discover Area Style2-->
-<section class="discover-area style2" style="background-image:url(/images/parallax-background/discover-bg-style2.jpg);">
+<section class="discover-area style2"
+    style="background-image:url(/images/parallax-background/discover-bg-style2.jpg?=1);">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -312,14 +320,14 @@
                         <div class="icon">
                             <div class="inner">
                                 <a class="html5lightbox wow zoomIn" data-wow-delay="300ms" data-wow-duration="1500ms"
-                                    title="Yacher Video Gallery" href="https://www.youtube.com/watch?v=p25gICT63ek">
+                                    title="Las mejores vistas" href="https://www.youtube.com/watch?v=mTNQg5MROyU">
                                     <span class="flaticon-play-button"></span>
                                 </a>
                             </div>
                         </div>
                     </div>
-                    <p>Best destinations available online</p>
-                    <h1>Yacher is a World Leading<br> Online Yachtcharter Platform</h1>
+                    <p>¿Ya sabes que barco elegirás?</p>
+                    <h1>San Jose Salty Charter</h1>
                 </div>
             </div>
         </div>
@@ -334,15 +342,15 @@
         <div class="single-destination-box-style2 max-width20">
             <div class="img-holder">
                 <div class="inner">
-                    <img src="/images/resources/destination-v2-1.jpg" alt="Awesome Image">
+                    <img src="/images/resources/destination-1.jpg?=1" alt="Awesome Image">
                     <div class="overlay-content">
                         <div class="title">
-                            <h1><a href="#">Ionian Greece</a></h1>
-                            <span>846 Boats</span>
+                            <h1><a href="#">Pesca</a></h1>
+                            <span>Solo los mejores</span>
                         </div>
                         <div class="zoom-button">
                             <a class="lightbox-image" data-fancybox="gallery"
-                                href="/images/resources/destination-v2-1.jpg">
+                                href="/images/resources/destination-1.jpg?=1">
                                 <span class="flaticon-plus"></span>
                             </a>
                         </div>
@@ -355,15 +363,15 @@
         <div class="single-destination-box-style2 max-width20">
             <div class="img-holder">
                 <div class="inner">
-                    <img src="/images/resources/destination-v2-2.jpg" alt="Awesome Image">
+                    <img src="/images/resources/destination-2.jpg?=1" alt="Awesome Image">
                     <div class="overlay-content">
                         <div class="title">
-                            <h1><a href="#">Ionian Greece</a></h1>
-                            <span>846 Boats</span>
+                            <h1><a href="#">Atardeceres</a></h1>
+                            <span>Las mejores vistas</span>
                         </div>
                         <div class="zoom-button">
                             <a class="lightbox-image" data-fancybox="gallery"
-                                href="/images/resources/destination-v2-2.jpg">
+                                href="/images/resources/destination-2.jpg?=1">
                                 <span class="flaticon-plus"></span>
                             </a>
                         </div>
@@ -376,15 +384,15 @@
         <div class="single-destination-box-style2 max-width20">
             <div class="img-holder">
                 <div class="inner">
-                    <img src="/images/resources/destination-v2-3.jpg" alt="Awesome Image">
+                    <img src="/images/resources/destination-3.jpg?=1" alt="Awesome Image">
                     <div class="overlay-content">
                         <div class="title">
-                            <h1><a href="#">Ionian Greece</a></h1>
-                            <span>846 Boats</span>
+                            <h1><a href="#">Despedidas</a></h1>
+                            <span>Atrévete a divertirte</span>
                         </div>
                         <div class="zoom-button">
                             <a class="lightbox-image" data-fancybox="gallery"
-                                href="/images/resources/destination-v2-3.jpg">
+                                href="/images/resources/destination-3.jpg?=1">
                                 <span class="flaticon-plus"></span>
                             </a>
                         </div>
@@ -396,9 +404,9 @@
         <div class="destination-box-title max-width40">
             <div class="sec-title">
                 <div class="icon"><span class="flaticon-rudder"></span></div>
-                <p>Have a look at our</p>
+                <p>Los mejores recuerdos</p>
                 <div class="big-title">
-                    <h1>Popular<br> Destinations</h1>
+                    <h1>Actividades<br> más populares</h1>
                 </div>
             </div>
         </div>
@@ -408,7 +416,7 @@
 <!--End Destinations Style2 Area-->
 
 <!--Start Team Area-->
-<section class="team-area">
+<section hidden class="team-area">
     <div class="container">
         <div class="sec-title black text-center">
             <div class="icon"><span class="flaticon-rudder"></span></div>
@@ -502,7 +510,7 @@
 <!--End Team Area-->
 
 <!--Start Partner Area Style2-->
-<section class="partner-area style2">
+<section hidden class="partner-area style2">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -547,28 +555,29 @@
                 <div class="why-choose-content">
                     <div class="sec-title black">
                         <div class="icon"><span class="flaticon-rudder"></span></div>
-                        <p>Our benefits</p>
+                        <p>Haz recuerdos en Los Cabos</p>
                         <div class="big-title black">
-                            <h1>Why Choose Us</h1>
+                            <h1>¿Porqué elegirnos?</h1>
                         </div>
                     </div>
                     <div class="inner-content">
                         <ul>
                             <li>
                                 <div class="icon"><span class="flaticon-money"></span></div>
-                                <h3>No Hidden<br> Fees</h3>
+                                <h3>Variedad de <br> Embarcaciones</h3>
                             </li>
                             <li>
                                 <div class="icon"><span class="flaticon-repair"></span></div>
-                                <h3>Maintenance<br> of Boats</h3>
+                                <h3>Mantenimiento <br> de embarcaciones</h3>
                             </li>
                             <li>
                                 <div class="icon"><span class="flaticon-sailor"></span></div>
-                                <h3>Experienced<br> Team</h3>
+                                <h3>Personal<br> Capacitado</h3>
                             </li>
                         </ul>
-                        <div class="text">There are many variations of lorem ipsum the majority have in some form by
-                            randomised words which don't look even slightly believable quis nostrud exercitation ullamc.
+                        <div class="text">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias magnam, minus dolores
+                            consequuntur autem fugit at alias libero doloribus placeat.
                         </div>
                     </div>
                 </div>
@@ -576,7 +585,7 @@
 
             <div class="col-xl-6">
                 <div class="choose-img-box">
-                    <div class="image-bg" style="background-image:url(/images/resources/choose-img-box.jpg);"></div>
+                    <div class="image-bg" style="background-image:url(/images/resources/choose-img-box.jpg?=1);"></div>
                     <div class="overlay-content">
                         <div class="box">
                             <div class="content">
@@ -594,97 +603,79 @@
 </section>
 <!--End Choose Area-->
 
-<!--Start latest blog area Style2-->
-<section class="latest-blog-area style2">
-    <div class="container">
-        <div class="sec-title black text-center">
-            <div class="icon"><span class="flaticon-rudder"></span></div>
-            <p>checkout news</p>
-            <div class="big-title black">
-                <h1>News & Articles</h1>
-            </div>
-        </div>
-        <div class="row">
-            <!--Start single blog post Style2-->
-            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
-                <div class="single-blog-post style2 wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    <div class="img-holder">
-                        <img src="/images/blog/blog-v2-1.jpg" alt="Awesome Image">
-                        <div class="overlay-style-one bg1"></div>
-                        <ul class="meta-info">
-                            <li><a href="#"><span class="flaticon-user-1"></span>Admin</a></li>
-                            <li><a href="#"><span class="flaticon-speech-bubbles-comment-option"></span>2 Comments</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="text-holder">
-                        <div class="post-date">
-                            <span>19 Nov, 2019</span>
-                        </div>
-                        <h3 class="blog-title"><a href="blog-single.html">7 Days Itinerary Discovering<br> Elba
-                                Island</a></h3>
-                        <div class="text">
-                            <p>Pellentesque auctor tristique ornare. Ut porta ut magna in cursus.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End single blog post Style2-->
-            <!--Start single blog post Style2-->
-            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
-                <div class="single-blog-post style2 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-                    <div class="img-holder">
-                        <img src="/images/blog/blog-v2-2.jpg" alt="Awesome Image">
-                        <div class="overlay-style-one bg1"></div>
-                        <ul class="meta-info">
-                            <li><a href="#"><span class="flaticon-user-1"></span>Admin</a></li>
-                            <li><a href="#"><span class="flaticon-speech-bubbles-comment-option"></span>2 Comments</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="text-holder">
-                        <div class="post-date">
-                            <span>19 Nov, 2019</span>
-                        </div>
-                        <h3 class="blog-title"><a href="blog-single.html">7 Days Itinerary Discovering<br> Elba
-                                Island</a></h3>
-                        <div class="text">
-                            <p>Pellentesque auctor tristique ornare. Ut porta ut magna in cursus.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End single blog post Style2-->
-            <!--Start single blog post Style2-->
-            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
-                <div class="single-blog-post style2 wow fadeInLeft" data-wow-delay="500ms" data-wow-duration="1500ms">
-                    <div class="img-holder">
-                        <img src="/images/blog/blog-v2-3.jpg" alt="Awesome Image">
-                        <div class="overlay-style-one bg1"></div>
-                        <ul class="meta-info">
-                            <li><a href="#"><span class="flaticon-user-1"></span>Admin</a></li>
-                            <li><a href="#"><span class="flaticon-speech-bubbles-comment-option"></span>2 Comments</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="text-holder">
-                        <div class="post-date">
-                            <span>19 Nov, 2019</span>
-                        </div>
-                        <h3 class="blog-title"><a href="blog-single.html">7 Days Itinerary Discovering<br> Elba
-                                Island</a></h3>
-                        <div class="text">
-                            <p>Pellentesque auctor tristique ornare. Ut porta ut magna in cursus.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End single blog post Style2-->
+<!--Start Services Area-->
+<div class="sec-title black text-center" style="padding-bottom:0; margin-top:3rem;">
+    <div class="icon"><span class="flaticon-rudder"></span></div>
+    <p>Hecha un vistazo a nuestros</p>
+    <div class="big-title black">
+        <h1>Embarcaciones más populares</h1>
+    </div>
+</div>
+<section class="services-area">
 
+    <div class="container">
+
+        <div class="row justify-content-center">
+            <!--Start Single Service Style1-->
+            <div class="col-xl-4 col-lg-4">
+                <div class="single-service-style1">
+                    <div class="img-holder">
+                        <img src="images/resources/services-v1-1.jpg?=!" alt="Awesome Image">
+                    </div>
+                    <div class="text-holder">
+                        <h3>Catamarán</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae minus atque ducimus error,
+                            nulla aliquid eveniet tenetur sed eaque libero.
+                        </p>
+                        <a href="#">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <!--End Single Service Style1-->
+            <!--Start Single Service Style1-->
+            <div class="col-xl-4 col-lg-4">
+                <div class="single-service-style1">
+                    <div class="img-holder">
+                        <img src="images/resources/services-v1-2.jpg?=!" alt="Awesome Image">
+                    </div>
+                    <div class="text-holder">
+                        <h3>Bare Boat</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae minus atque ducimus error,
+                            nulla aliquid eveniet tenetur sed eaque libero.
+                        </p>
+                        <a href="#">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <!--End Single Service Style1-->
+            <!--Start Single Service Style1-->
+            <div class="col-xl-4 col-lg-4">
+                <div class="single-service-style1">
+                    <div class="img-holder">
+                        <img src="images/resources/services-v1-3.jpg?=!" alt="Awesome Image">
+                    </div>
+                    <div class="text-holder">
+                        <h3>Super Panga</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae minus atque ducimus error,
+                            nulla aliquid eveniet tenetur sed eaque libero.
+                        </p>
+                        <a href="#">Ver más</a>
+                    </div>
+                </div>
+            </div>
+            <!--End Single Service Style1-->
+            <div class="col-md-3 text-center">
+                <div class="button">
+                    <a class="btn-one" href="#">Ver más yates</a>
+                </div>
+            </div>
         </div>
     </div>
 </section>
-<!--End latest blog area Style2-->
+<!--End Services Area-->
 
 <!--Start Slogan Area-->
 <section class="slogan-area style2">
@@ -693,10 +684,10 @@
             <div class="col-xl-12">
                 <div class="slogan-content style2">
                     <div class="title">
-                        <h1>We provide high-quality services</h1>
+                        <h1>Ofrecemos servicios de alta calidad</h1>
                     </div>
                     <div class="button">
-                        <a class="btn-one" href="#">Learn More</a>
+                        <a class="btn-one" href="#">¡Reservar ahora!</a>
                     </div>
                 </div>
             </div>
