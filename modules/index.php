@@ -5,7 +5,7 @@
         <div class="banner-carousel owl-theme owl-carousel text-center">
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(images/slides/v2-1.jpg)"></div>
+                <div class="image-layer" style="background-image:url(/images/slides/v2-1.jpg)"></div>
                 <div class="auto-container">
                     <div class="content">
                         <div class="title thm-clr1">Come & Let’s Enjoy Our Best</div>
@@ -20,7 +20,7 @@
             </div>
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(images/slides/v2-2.jpg)"></div>
+                <div class="image-layer" style="background-image:url(/images/slides/v2-2.jpg)"></div>
                 <div class="auto-container">
                     <div class="content">
                         <div class="title thm-clr1">Come & Let’s Enjoy Our Best</div>
@@ -35,7 +35,7 @@
             </div>
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(images/slides/v2-3.jpg)"></div>
+                <div class="image-layer" style="background-image:url(/images/slides/v2-3.jpg)"></div>
                 <div class="auto-container">
                     <div class="content">
                         <div class="title thm-clr1">Come & Let’s Enjoy Our Best</div>
@@ -126,7 +126,7 @@
                     </div>
                     <div class="inner-content">
                         <div class="img-box">
-                            <img src="images/resources/create-boats-img.jpg" alt="Awesome Image">
+                            <img src="/images/resources/create-boats-img.jpg" alt="Awesome Image">
                         </div>
                         <div class="text-box">
                             <p>There are many variations of passages of Lorem Ipsum available, but the majority have in
@@ -171,7 +171,7 @@
 <!--Start Yachts Area-->
 <section class="yachts-area style2">
     <div class="icon-holder" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2500">
-        <img src="images/icon/big-icon-3.png" alt="Icon">
+        <img src="/images/icon/big-icon-3.png" alt="Icon">
     </div>
     <div class="container">
         <div class="sec-title black text-center">
@@ -187,7 +187,7 @@
                 <div class="siingle-yachts-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="images/yachts/yachts-1.jpg" alt="Awesome Image">
+                            <img src="/images/yachts/yachts-1.jpg" alt="Awesome Image">
                             <div class="overlay-style-one bg1"></div>
                         </div>
                         <div class="rate-box thm-bgclr1">
@@ -214,7 +214,7 @@
                 <div class="siingle-yachts-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="images/yachts/yachts-2.jpg" alt="Awesome Image">
+                            <img src="/images/yachts/yachts-2.jpg" alt="Awesome Image">
                             <div class="overlay-style-one bg1"></div>
                         </div>
                         <div class="rate-box thm-bgclr1">
@@ -241,7 +241,7 @@
                 <div class="siingle-yachts-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="images/yachts/yachts-3.jpg" alt="Awesome Image">
+                            <img src="/images/yachts/yachts-3.jpg" alt="Awesome Image">
                             <div class="overlay-style-one bg1"></div>
                         </div>
                         <div class="rate-box thm-bgclr1">
@@ -285,17 +285,17 @@
                         <ul>
                             <li>
                                 <div class="single-image">
-                                    <img src="images/resources/sailing-experience-1.jpg" alt="Awesome Image">
+                                    <img src="/images/resources/sailing-experience-1.jpg" alt="Awesome Image">
                                 </div>
                             </li>
                             <li>
                                 <div class="single-image">
-                                    <img src="images/resources/sailing-experience-2.jpg" alt="Awesome Image">
+                                    <img src="/images/resources/sailing-experience-2.jpg" alt="Awesome Image">
                                 </div>
                             </li>
                             <li>
                                 <div class="single-image">
-                                    <img src="images/resources/sailing-experience-3.jpg" alt="Awesome Image">
+                                    <img src="/images/resources/sailing-experience-3.jpg" alt="Awesome Image">
                                 </div>
                             </li>
                         </ul>
@@ -358,7 +358,7 @@
 
 
 <!--Start Discover Area Style2-->
-<section class="discover-area style2" style="background-image:url(images/parallax-background/discover-bg-style2.jpg);">
+<section class="discover-area style2" style="background-image:url(/images/parallax-background/discover-bg-style2.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -389,7 +389,7 @@
         <div class="single-destination-box-style2 max-width20">
             <div class="img-holder">
                 <div class="inner">
-                    <img src="images/resources/destination-v2-1.jpg" alt="Awesome Image">
+                    <img src="/images/resources/destination-v2-1.jpg" alt="Awesome Image">
                     <div class="overlay-content">
                         <div class="title">
                             <h1><a href="#">Ionian Greece</a></h1>
@@ -397,7 +397,7 @@
                         </div>
                         <div class="zoom-button">
                             <a class="lightbox-image" data-fancybox="gallery"
-                                href="images/resources/destination-v2-1.jpg">
+                                href="/images/resources/destination-v2-1.jpg">
                                 <span class="flaticon-plus"></span>
                             </a>
                         </div>
@@ -410,7 +410,7 @@
         <div class="single-destination-box-style2 max-width20">
             <div class="img-holder">
                 <div class="inner">
-                    <img src="images/resources/destination-v2-2.jpg" alt="Awesome Image">
+                    <img src="/images/resources/destination-v2-2.jpg" alt="Awesome Image">
                     <div class="overlay-content">
                         <div class="title">
                             <h1><a href="#">Ionian Greece</a></h1>
@@ -418,7 +418,7 @@
                         </div>
                         <div class="zoom-button">
                             <a class="lightbox-image" data-fancybox="gallery"
-                                href="images/resources/destination-v2-2.jpg">
+                                href="/images/resources/destination-v2-2.jpg">
                                 <span class="flaticon-plus"></span>
                             </a>
                         </div>
@@ -431,7 +431,7 @@
         <div class="single-destination-box-style2 max-width20">
             <div class="img-holder">
                 <div class="inner">
-                    <img src="images/resources/destination-v2-3.jpg" alt="Awesome Image">
+                    <img src="/images/resources/destination-v2-3.jpg" alt="Awesome Image">
                     <div class="overlay-content">
                         <div class="title">
                             <h1><a href="#">Ionian Greece</a></h1>
@@ -439,7 +439,7 @@
                         </div>
                         <div class="zoom-button">
                             <a class="lightbox-image" data-fancybox="gallery"
-                                href="images/resources/destination-v2-3.jpg">
+                                href="/images/resources/destination-v2-3.jpg">
                                 <span class="flaticon-plus"></span>
                             </a>
                         </div>
@@ -477,7 +477,7 @@
             <div class="col-xl-4 col-lg-4">
                 <div class="single-team-member wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="images/team/team-v1-1.jpg" alt="Awesome Image">
+                        <img src="/images/team/team-v1-1.jpg" alt="Awesome Image">
                     </div>
                     <div class="title text-center">
                         <h3>Kevin Martin</h3>
@@ -503,7 +503,7 @@
             <div class="col-xl-4 col-lg-4">
                 <div class="single-team-member wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="images/team/team-v1-2.jpg" alt="Awesome Image">
+                        <img src="/images/team/team-v1-2.jpg" alt="Awesome Image">
                     </div>
                     <div class="title text-center">
                         <h3>Mike Hardson</h3>
@@ -529,7 +529,7 @@
             <div class="col-xl-4 col-lg-4">
                 <div class="single-team-member wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="images/team/team-v1-3.jpg" alt="Awesome Image">
+                        <img src="/images/team/team-v1-3.jpg" alt="Awesome Image">
                     </div>
                     <div class="title text-center">
                         <h3>Christine Eve</h3>
@@ -564,27 +564,27 @@
                 <div class="partner-box">
                     <!--Start Single Partner Logo Box-->
                     <div class="single-partner-logo-box">
-                        <a href="#"><img src="images/brand/1.png" alt="Awesome Image"></a>
+                        <a href="#"><img src="/images/brand/1.png" alt="Awesome Image"></a>
                     </div>
                     <!--End Single Partner Logo Box-->
                     <!--Start Single Partner Logo Box-->
                     <div class="single-partner-logo-box">
-                        <a href="#"><img src="images/brand/2.png" alt="Awesome Image"></a>
+                        <a href="#"><img src="/images/brand/2.png" alt="Awesome Image"></a>
                     </div>
                     <!--End Single Partner Logo Box-->
                     <!--Start Single Partner Logo Box-->
                     <div class="single-partner-logo-box">
-                        <a href="#"><img src="images/brand/3.png" alt="Awesome Image"></a>
+                        <a href="#"><img src="/images/brand/3.png" alt="Awesome Image"></a>
                     </div>
                     <!--End Single Partner Logo Box-->
                     <!--Start Single Partner Logo Box-->
                     <div class="single-partner-logo-box">
-                        <a href="#"><img src="images/brand/4.png" alt="Awesome Image"></a>
+                        <a href="#"><img src="/images/brand/4.png" alt="Awesome Image"></a>
                     </div>
                     <!--End Single Partner Logo Box-->
                     <!--Start Single Partner Logo Box-->
                     <div class="single-partner-logo-box">
-                        <a href="#"><img src="images/brand/5.png" alt="Awesome Image"></a>
+                        <a href="#"><img src="/images/brand/5.png" alt="Awesome Image"></a>
                     </div>
                     <!--End Single Partner Logo Box-->
                 </div>
@@ -631,7 +631,7 @@
 
             <div class="col-xl-6">
                 <div class="choose-img-box">
-                    <div class="image-bg" style="background-image:url(images/resources/choose-img-box.jpg);"></div>
+                    <div class="image-bg" style="background-image:url(/images/resources/choose-img-box.jpg);"></div>
                     <div class="overlay-content">
                         <div class="box">
                             <div class="content">
@@ -664,7 +664,7 @@
             <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
                 <div class="single-blog-post style2 wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="images/blog/blog-v2-1.jpg" alt="Awesome Image">
+                        <img src="/images/blog/blog-v2-1.jpg" alt="Awesome Image">
                         <div class="overlay-style-one bg1"></div>
                         <ul class="meta-info">
                             <li><a href="#"><span class="flaticon-user-1"></span>Admin</a></li>
@@ -689,7 +689,7 @@
             <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
                 <div class="single-blog-post style2 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="images/blog/blog-v2-2.jpg" alt="Awesome Image">
+                        <img src="/images/blog/blog-v2-2.jpg" alt="Awesome Image">
                         <div class="overlay-style-one bg1"></div>
                         <ul class="meta-info">
                             <li><a href="#"><span class="flaticon-user-1"></span>Admin</a></li>
@@ -714,7 +714,7 @@
             <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
                 <div class="single-blog-post style2 wow fadeInLeft" data-wow-delay="500ms" data-wow-duration="1500ms">
                     <div class="img-holder">
-                        <img src="images/blog/blog-v2-3.jpg" alt="Awesome Image">
+                        <img src="/images/blog/blog-v2-3.jpg" alt="Awesome Image">
                         <div class="overlay-style-one bg1"></div>
                         <ul class="meta-info">
                             <li><a href="#"><span class="flaticon-user-1"></span>Admin</a></li>

@@ -1,7 +1,7 @@
 <!--Start footer area Style2-->
 <footer class="footer-area style2">
     <div class="footer style2">
-        <div class="footer-bg" style="background-image: url(images/pattern/water-wave.png);"></div>
+        <div class="footer-bg" style="background-image: url(/images/pattern/water-wave.png);"></div>
         <div class="container">
             <div class="row">
                 <!--Start single footer widget-->
@@ -64,7 +64,7 @@
                     <div class="single-footer-widget martop50">
                         <div class="footer-contact-info-box">
                             <div class="footer-logo">
-                                <a href="index.html"><img src="images/resources/logo.png" alt="Awesome Logo"
+                                <a href="index.html"><img src="/images/resources/logo.png" alt="Awesome Logo"
                                         title="Logo"></a>
                             </div>
                             <p>660 Broklyn Street, New Town<br> New York, United States</p>
