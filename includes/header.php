@@ -24,7 +24,7 @@
                 </div>
                 <div class="header-upper-middle-style2 max-width float-left clearfix">
                     <div class="logo">
-                        <a href="index.html"><img src="/images/resources/logo.png" alt="Awesome Logo" title=""></a>
+                        <a href="/"><img src="/images/resources/logo.png" alt="Awesome Logo" title=""></a>
                     </div>
                 </div>
                 <div class="header-upper-right-style2 max-width float-right clearfix">
@@ -33,8 +33,8 @@
                             <span class="flaticon-smartphone"></span>
                         </div>
                         <div class="title">
-                            <h6>Call Now</h6>
-                            <a href="tel:6668880000">666 888 0000</a>
+                            <h6>Márcanos</h6>
+                            <a href="tel:1234567890">123 456 7890</a>
                         </div>
                     </div>
                 </div>
@@ -57,34 +57,11 @@
                         <nav class="main-menu style2 navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class="dropdown current"><a href="#">Home</a>
-                                        <ul>
-                                            <li><a href="index.html">Home Page 01</a></li>
-                                            <li><a href="index-2.html">Home Page 02</a></li>
-                                            <li class="dropdown"><a href="#">Header Styles</a>
-                                                <ul>
-                                                    <li><a href="index.html">Header Style One</a></li>
-                                                    <li><a href="index-2.html">Header Style Two</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="services.html">Services</a></li>
-                                    <li class="dropdown"><a href="#">Our Yachts</a>
-                                        <ul>
-                                            <li><a href="yachts.html">Our Yachts</a></li>
-                                            <li><a href="yachts-details.html">Yachts Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="destinations.html">Destinations</a></li>
-                                    <li class="dropdown"><a href="#">News</a>
-                                        <ul>
-                                            <li><a href="blog.html">Latest News</a></li>
-                                            <li><a href="blog-single.html">News Single</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="/">Inicio</a></li>
+                                    <li><a href="/">Inicio</a></li>
+                                    <li><a href="/">Galería</a></li>
+                                    <li><a href="/">Servicios</a></li>
+                                    <li><a href="/">Contacto</a></li>
                                 </ul>
                             </div>
                         </nav>
@@ -98,9 +75,6 @@
                             <form action="#">
                                 <select id="polyglot-language-options">
                                     <option id="en" value="en" selected>English</option>
-                                    <option id="fr" value="fr">French</option>
-                                    <option id="de" value="de">German</option>
-                                    <option id="it" value="it">Italian</option>
                                     <option id="es" value="es">Spanish</option>
                                 </select>
                             </form>
@@ -119,7 +93,7 @@
             <div class="clearfix">
                 <!--Logo-->
                 <div class="logo float-left">
-                    <a href="index.html" class="img-responsive"><img src="/images/resources/logo.png" alt=""
+                    <a href="/" class="img-responsive"><img src="/images/resources/logo.png" alt=""
                             title=""></a>
                 </div>
                 <!--Right Col-->
@@ -140,7 +114,7 @@
         <div class="close-btn"><span class="icon flaticon-multiply"></span></div>
 
         <nav class="menu-box">
-            <div class="nav-logo"><a href="index.html"><img src="/images/resources/logo.png" alt="" title=""></a></div>
+            <div class="nav-logo"><a href="/"><img src="/images/resources/logo.png" alt="" title=""></a></div>
             <div class="menu-outer">
                 <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             </div>
@@ -148,9 +122,6 @@
             <div class="social-links">
                 <ul class="clearfix">
                     <li><a href="#"><span class="fab fa fa-facebook-square"></span></a></li>
-                    <li><a href="#"><span class="fab fa fa-twitter-square"></span></a></li>
-                    <li><a href="#"><span class="fab fa fa-pinterest-square"></span></a></li>
-                    <li><a href="#"><span class="fab fa fa-google-plus-square"></span></a></li>
                     <li><a href="#"><span class="fab fa fa-youtube-square"></span></a></li>
                 </ul>
             </div>

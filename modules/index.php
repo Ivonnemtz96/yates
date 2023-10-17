@@ -8,12 +8,14 @@
                 <div class="image-layer" style="background-image:url(/images/slides/v2-1.jpg?=1)"></div>
                 <div class="auto-container">
                     <div class="content">
-                        <div class="title thm-clr1">Come & Let’s Enjoy Our Best</div>
-                        <div class="big-title">Yacht & Boat<br> Services</div>
-                        <div class="text">The widest range of boats, in 800 destinations, from the<br> Mediterranean to
-                            the Caribbean.</div>
+                        <div class="title thm-clr1">Navega en la cima del lujo</div>
+                        <div class="big-title">Las mejores <br> servicios</div>
+                        <div class="text">
+                            Haz tu reserva ahora y descubre una experiencia sin igual, donde el confort y la
+                            elegancia se combinan para ofrecerte un viaje de ensueño.
+                        </div>
                         <div class="btn-box">
-                            <a href="#">Discover More</a>
+                            <a href="#">Ver yates</a>
                         </div>
                     </div>
                 </div>
@@ -23,32 +25,16 @@
                 <div class="image-layer" style="background-image:url(/images/slides/v2-2.jpg?=1)"></div>
                 <div class="auto-container">
                     <div class="content">
-                        <div class="title thm-clr1">Come & Let’s Enjoy Our Best</div>
-                        <div class="big-title">Yacht & Boat<br> Services</div>
-                        <div class="text">The widest range of boats, in 800 destinations, from the<br> Mediterranean to
-                            the Caribbean.</div>
+                        <div class="title thm-clr1">Navega hacia el lujo</div>
+                        <div class="big-title"> Disfruta de la mejor vista <br> en Los Cabos</div>
+                        <div class="text">TNavega con estilo, navega con nosotros. Descubre el lujo en el mar.</div>
                         <div class="btn-box">
-                            <a href="#">Discover More</a>
+                            <a href="#">Ver servicios</a>
                         </div>
                     </div>
                 </div>
             </div>
             <!-- Slide -->
-            <div class="slide">
-                <div class="image-layer" style="background-image:url(/images/slides/v2-3.jpg?=1)"></div>
-                <div class="auto-container">
-                    <div class="content">
-                        <div class="title thm-clr1">Come & Let’s Enjoy Our Best</div>
-                        <div class="big-title">Yacht & Boat<br> Services</div>
-                        <div class="text">The widest range of boats, in 800 destinations, from the<br> Mediterranean to
-                            the Caribbean.</div>
-                        <div class="btn-box">
-                            <a href="#">Discover More</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
         </div>
     </div>
 </section>
@@ -64,9 +50,9 @@
                 <div class="create-boats-content">
                     <div class="sec-title black">
                         <div class="icon"><span class="flaticon-rudder"></span></div>
-                        <p>create your</p>
+                        <p>La actividad que quieras</p>
                         <div class="big-title black">
-                            <h1>Tailor-Made Boats</h1>
+                            <h1>San Jose Salty Charters</h1>
                         </div>
                     </div>
                     <div class="inner-content">
@@ -74,10 +60,13 @@
                             <img src="/images/resources/create-boats-img.jpg?=1" alt="Awesome Image">
                         </div>
                         <div class="text-box">
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have in
-                                some form by injected humour words which don't look even slightly quis ullamco laboris
-                                nisi ut aliquip.</p>
-                            <a class="btn-one" href="#">Learn More</a>
+                            <p>
+                                En San Jose Salty Charters, nuestra pasión es brindar experiencias inolvidables en los
+                                mares cristalinos de Los Cabos. Nuestro equipo de expertos en navegación y servicios a
+                                bordo te ayudará a planificar cada detalle, desde la elección del yate hasta la
+                                selección de actividades y experiencias.
+                            </p>
+                            <a class="btn-one" href="#">¡Reservar ahora!</a>
                         </div>
                     </div>
                 </div>
@@ -87,22 +76,22 @@
                     <ul>
                         <li>
                             <div class="icon"><span class="flaticon-team"></span></div>
-                            <h3><a href="#"> Get your family or a<br> group of friends</a></h3>
+                            <h3><a href="#"> Pesca</a></h3>
                             <div class="count">01</div>
                         </li>
                         <li>
                             <div class="icon"><span class="flaticon-boat-2"></span></div>
-                            <h3><a href="#">Pick the yacht of<br> your preference</a></h3>
+                            <h3><a href="#">Snorkel</a></h3>
                             <div class="count">02</div>
                         </li>
                         <li>
                             <div class="icon"><span class="flaticon-gps"></span></div>
-                            <h3><a href="#">Let’s choose your<br> destination</a></h3>
+                            <h3><a href="#">vista a las ballenas</a></h3>
                             <div class="count">03</div>
                         </li>
                         <li>
                             <div class="icon"><span class="flaticon-beach"></span></div>
-                            <h3><a href="#">Sail, Your’re ready to<br> enjoy now</a></h3>
+                            <h3><a href="#">Sunset</a></h3>
                             <div class="count">04</div>
                         </li>
                     </ul>
@@ -121,7 +110,7 @@
     <div class="container">
         <div class="sec-title black text-center">
             <div class="icon"><span class="flaticon-rudder"></span></div>
-            <p>our popular boats</p>
+            <p>Nuestros barcos populares</p>
             <div class="big-title black">
                 <h1>Yachts for Charter</h1>
             </div>
@@ -246,10 +235,16 @@
                         </ul>
                     </div>
                     <div class="text-box">
-                        <p>Lorem Ipsum is simply dummy text of the printing and type setting industry has been the
-                            industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
-                            of type and scrambled to make a type specimen book. </p>
-                        <a class="btn-one" href="#">Ver barcos</a>
+                        <p>
+                            Imagina comenzar tu día en el mar con la emoción de la pesca en aguas cristalinas. Nuestros
+                            yates están diseñados para llevarte a los mejores puntos de pesca de Los Cabos, donde podrás
+                            lanzar tu caña en busca de especies codiciadas.
+                            En lugar de regresar al puerto, te invitamos a quedarte a bordo y disfrutar de una
+                            experiencia de pesca al atardecer única. Mientras el cielo se tiñe de tonos dorados y
+                            naranjas, podrás relajarte en la cubierta de nuestro yate y disfrutar de la belleza que solo
+                            Los Cabos puede ofrecer.
+                        </p>
+                        <a class="btn-one" href="#">¡Reservar ahora!</a>
                     </div>
                 </div>
             </div>
@@ -259,14 +254,11 @@
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block">
                             <div class="accord-btn active">
-                                <h4>Pregunta 1</h4>
+                                <h4>¿En dónde se encuentran?</h4>
                             </div>
                             <div class="accord-content collapsed">
                                 <p>
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, hic sit.
-                                    Perspiciatis
-                                    quae blanditiis excepturi, accusantium aliquid eius aliquam delectus omnis eos
-                                    libero numquam nam!
+                                    En el Poblado de La Playa, San José del Cabo.
                                 </p>
                             </div>
                         </div>
@@ -274,13 +266,13 @@
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block">
                             <div class="accord-btn">
-                                <h4>Pregunta 2</h4>
+                                <h4>¿Que planes manejan en la pesca?</h4>
                             </div>
                             <div class="accord-content">
                                 <p>
-                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores ducimus repellat
-                                    dolor, pariatur voluptas neque officiis, necessitatibus debitis et cum atque facilis
-                                    distinctio repellendus facere?
+                                    * Todo el día. <br>
+                                    * Medio día. <br>
+                                    * Pesca por la tarde.
                                 </p>
                             </div>
                         </div>
@@ -288,13 +280,11 @@
                         <!--Start single accordion box-->
                         <div class="accordion accordion-block">
                             <div class="accord-btn">
-                                <h4>preguntas 3</h4>
+                                <h4>¿Aceptan todo tipo de pago?</h4>
                             </div>
                             <div class="accord-content">
                                 <p>
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, dignissimos
-                                    voluptatum! Pariatur quae ducimus sapiente? Exercitationem totam magni ipsam
-                                    reiciendis corporis sunt quasi cupiditate expedita!
+                                    Así es, manejamos cualquier tipo de pago en ventanilla.
                                 </p>
                             </div>
                         </div>
@@ -415,137 +405,7 @@
 </section>
 <!--End Destinations Style2 Area-->
 
-<!--Start Team Area-->
-<section hidden class="team-area">
-    <div class="container">
-        <div class="sec-title black text-center">
-            <div class="icon"><span class="flaticon-rudder"></span></div>
-            <p>Expert crew members</p>
-            <div class="big-title black">
-                <h1>Meet the Skippers</h1>
-            </div>
-        </div>
-        <div class="row">
-            <!--Start Single Team Member-->
-            <div class="col-xl-4 col-lg-4">
-                <div class="single-team-member wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
-                    <div class="img-holder">
-                        <img src="/images/team/team-v1-1.jpg" alt="Awesome Image">
-                    </div>
-                    <div class="title text-center">
-                        <h3>Kevin Martin</h3>
-                        <p>skipper</p>
-                        <div class="social-links">
-                            <ul class="social-links-style1">
-                                <li>
-                                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End Single Team Member-->
-            <!--Start Single Team Member-->
-            <div class="col-xl-4 col-lg-4">
-                <div class="single-team-member wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                    <div class="img-holder">
-                        <img src="/images/team/team-v1-2.jpg" alt="Awesome Image">
-                    </div>
-                    <div class="title text-center">
-                        <h3>Mike Hardson</h3>
-                        <p>skipper</p>
-                        <div class="social-links">
-                            <ul class="social-links-style1">
-                                <li>
-                                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End Single Team Member-->
-            <!--Start Single Team Member-->
-            <div class="col-xl-4 col-lg-4">
-                <div class="single-team-member wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms">
-                    <div class="img-holder">
-                        <img src="/images/team/team-v1-3.jpg" alt="Awesome Image">
-                    </div>
-                    <div class="title text-center">
-                        <h3>Christine Eve</h3>
-                        <p>skipper</p>
-                        <div class="social-links">
-                            <ul class="social-links-style1">
-                                <li>
-                                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End Single Team Member-->
-        </div>
-    </div>
-</section>
-<!--End Team Area-->
 
-<!--Start Partner Area Style2-->
-<section hidden class="partner-area style2">
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-12">
-                <div class="partner-box">
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/images/brand/1.png" alt="Awesome Image"></a>
-                    </div>
-                    <!--End Single Partner Logo Box-->
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/images/brand/2.png" alt="Awesome Image"></a>
-                    </div>
-                    <!--End Single Partner Logo Box-->
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/images/brand/3.png" alt="Awesome Image"></a>
-                    </div>
-                    <!--End Single Partner Logo Box-->
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/images/brand/4.png" alt="Awesome Image"></a>
-                    </div>
-                    <!--End Single Partner Logo Box-->
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/images/brand/5.png" alt="Awesome Image"></a>
-                    </div>
-                    <!--End Single Partner Logo Box-->
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--End Partner Area Style2-->
 
 <!--Start Choose Area-->
 <section class="choose-area">
@@ -576,8 +436,8 @@
                             </li>
                         </ul>
                         <div class="text">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias magnam, minus dolores
-                            consequuntur autem fugit at alias libero doloribus placeat.
+                            Explora los tesoros escondidos de Los Cabos a bordo de nuestros yates de lujo. ¡Una
+                            experiencia única en el paraíso!
                         </div>
                     </div>
                 </div>
@@ -625,10 +485,10 @@
                     <div class="text-holder">
                         <h3>Catamarán</h3>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae minus atque ducimus error,
-                            nulla aliquid eveniet tenetur sed eaque libero.
+                            Este magnífico catamarán ha sido diseñado pensando en la máxima satisfacción de nuestros
+                            pasajeros y ofrece un ambiente ideal para una variedad de actividades en el agua. <br><br>
                         </p>
-                        <a href="#">Ver más</a>
+                        <a href="#">Reservar ahora</a>
                     </div>
                 </div>
             </div>
@@ -642,10 +502,11 @@
                     <div class="text-holder">
                         <h3>Bare Boat</h3>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae minus atque ducimus error,
-                            nulla aliquid eveniet tenetur sed eaque libero.
+                            Navegar a bordo de nuestro bareboat es la oportunidad perfecta para los
+                            amantes de la navegación que desean experimentar la libertad de explorar Los Cabos. Este
+                            barco, te brinda la posibilidad de crear tu propia aventura en el mar.
                         </p>
-                        <a href="#">Ver más</a>
+                        <a href="#">Reservar ahora</a>
                     </div>
                 </div>
             </div>
@@ -659,10 +520,10 @@
                     <div class="text-holder">
                         <h3>Super Panga</h3>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae minus atque ducimus error,
-                            nulla aliquid eveniet tenetur sed eaque libero.
-                        </p>
-                        <a href="#">Ver más</a>
+                            Es la elección ideal para aquellos que buscan una
+                            experiencia de pesca y exploración costera emocionante y auténtica en los hermosos mares de
+                            Los Cabos. <br><br><br><br>
+                        <a href="#">Reservar ahora</a>
                     </div>
                 </div>
             </div>
