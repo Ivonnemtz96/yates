@@ -43,7 +43,7 @@
 
 
 <!--Start Create Boats Area-->
-<section class="create-boats-area">
+<section class="create-boats-area" id="about">
     <div class="container">
         <div class="row">
             <div class="col-xl-6">

@@ -58,9 +58,9 @@
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
                                     <li><a href="/">Inicio</a></li>
-                                    <li><a href="/">Inicio</a></li>
+                                    <li><a href="/#about">Acerca de</a></li>
                                     <li><a href="/">Galería</a></li>
-                                    <li><a href="/">Servicios</a></li>
+                                    <li><a href="/services">Servicios</a></li>
                                     <li><a href="/">Contacto</a></li>
                                 </ul>
                             </div>
