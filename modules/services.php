@@ -37,8 +37,9 @@
                     </div>
                     <div class="text-holder">
                         <h3>San Jose Salty Charter</h3>
+                        <span>Bare boat</span>
                         <p>
-                            Save time with all inclusive. 
+                            Save time with all inclusive.
                             All inclusive : live bait, ice , fishing licenses, box lunch, drinks, sodas, Gatorade,
                             water, beer, chips.
                             Gratuities & taxes are not included with either package.
@@ -55,10 +56,13 @@
                         <img src="/images/resources/services-v1-2.jpg" alt="Awesome Image">
                     </div>
                     <div class="text-holder">
-                        <h3>Boat Rental</h3>
-                        <p>Quo te deseruisse repudiandae orpora suscipit at nam natum altera eripuias eu brute
-                            scriptorem.</p>
-                        <a href="#">Read More</a>
+                        <h3>La burra vieja</h3>
+                        <span>Super panga 25´´ft to 26´´ft</span>
+                        <p>
+                            Bare boat 5hr $300 | 8hr $400 <br>
+                            All inclusive 5hr $450 | 8hr $500 <br><br><br>
+                        </p>
+                        <a href="#burra" class="open-popup-link">Read More</a>
                     </div>
                 </div>
             </div>
@@ -70,10 +74,14 @@
                         <img src="/images/resources/services-v1-3.jpg" alt="Awesome Image">
                     </div>
                     <div class="text-holder">
-                        <h3>Daily Cruises</h3>
-                        <p>Quo te deseruisse repudiandae orpora suscipit at nam natum altera eripuias eu brute
-                            scriptorem.</p>
-                        <a href="#">Read More</a>
+                        <h3>Fortuna 2</h3>
+                        <p>
+                            Super panga 26¨ <br>
+                            Bare boat 5hr $330 | 8hr $430 <br>
+                            All inclusive 5hr $430 | 8hr $525 <br><br>
+
+                        </p>
+                        <a href="#fortuna" class="open-popup-link">Read More</a>
                     </div>
                 </div>
             </div>
@@ -87,10 +95,13 @@
                         <img src="/images/resources/services-v1-1.jpg" alt="Awesome Image">
                     </div>
                     <div class="text-holder">
-                        <h3>Yacht Charter</h3>
-                        <p>Quo te deseruisse repudiandae orpora suscipit at nam natum altera eripuias eu brute
-                            scriptorem.</p>
-                        <a href="#">Read More</a>
+                        <h3>Yaqueline 2</h3>
+                        <span>Super panga 26´´</span>
+                        <p>
+                            Bare boat 5hr $350 | 8hr $450
+                            All inclusive 5hr $460 | 8hr $550
+                        </p>
+                        <a href="#yaqueline" class="open-popup-link">Read More</a>
                     </div>
                 </div>
             </div>
@@ -102,10 +113,14 @@
                         <img src="/images/resources/services-v1-2.jpg" alt="Awesome Image">
                     </div>
                     <div class="text-holder">
-                        <h3>Boat Rental</h3>
-                        <p>Quo te deseruisse repudiandae orpora suscipit at nam natum altera eripuias eu brute
-                            scriptorem.</p>
-                        <a href="#">Read More</a>
+                        <h3>LIDIA</h3>
+                        <p>
+                            Super panga 26¨ft <br>
+                            Bare boat 5hr $320 | 8hr $425 <br>
+                            All inclusive 5hr $450 | 8hr $520 <br><br>
+
+                        </p>
+                        <a href="#lidia" class="open-popup-link">Read More</a>
                     </div>
                 </div>
             </div>
@@ -117,10 +132,13 @@
                         <img src="/images/resources/services-v1-3.jpg" alt="Awesome Image">
                     </div>
                     <div class="text-holder">
-                        <h3>Daily Cruises</h3>
-                        <p>Quo te deseruisse repudiandae orpora suscipit at nam natum altera eripuias eu brute
-                            scriptorem.</p>
-                        <a href="#">Read More</a>
+                        <h3>Briana</h3>
+                        <p>
+                            Super panga 26¨ft <br>
+                            Bare boat 5hr $400 | 8hr $530 <br>
+                            All inclusive 5hr $530 | 8hr $600 <br><br>
+                        </p>
+                        <a href="#briana" class="open-popup-link">Read More</a>
                     </div>
                 </div>
             </div>
@@ -134,10 +152,12 @@
                         <img src="/images/resources/services-v1-1.jpg" alt="Awesome Image">
                     </div>
                     <div class="text-holder">
-                        <h3>Yacht Charter</h3>
-                        <p>Quo te deseruisse repudiandae orpora suscipit at nam natum altera eripuias eu brute
-                            scriptorem.</p>
-                        <a href="#">Read More</a>
+                        <h3>California 28¨ft </h3>
+                        <p>
+                            Bare boat 5hr $500 | 8hr $630 <br>
+                            All inclusive 5hr $650 | 8hr $750 <br><br>
+                        </p>
+                        <a href="#california" class="open-popup-link">Read More</a>
                     </div>
                 </div>
             </div>
@@ -149,10 +169,12 @@
                         <img src="/images/resources/services-v1-2.jpg" alt="Awesome Image">
                     </div>
                     <div class="text-holder">
-                        <h3>Boat Rental</h3>
-                        <p>Quo te deseruisse repudiandae orpora suscipit at nam natum altera eripuias eu brute
-                            scriptorem.</p>
-                        <a href="#">Read More</a>
+                        <h3>California 31¨ft </h3>
+                        <p>
+                            Bare boat 5hr $630 | 8hr $690 <br>
+                            All inclusive 5hr $750 | 8hr $850 <br><br>
+                        </p>
+                        <a href="#california31" class="open-popup-link">Read More</a>
                     </div>
                 </div>
             </div>
@@ -164,10 +186,12 @@
                         <img src="/images/resources/services-v1-3.jpg" alt="Awesome Image">
                     </div>
                     <div class="text-holder">
-                        <h3>Daily Cruises</h3>
-                        <p>Quo te deseruisse repudiandae orpora suscipit at nam natum altera eripuias eu brute
-                            scriptorem.</p>
-                        <a href="#">Read More</a>
+                        <h3>Tiara 33ft </h3>
+                        <p>
+                            Bare boat 5hr $900 | 8hr $950 <br>
+                            All inclusive 5hr $1050 | 8hr $1200 <br><br>
+                        </p>
+                        <a href="#carolina" class="open-popup-link">Read More</a>
                     </div>
                 </div>
             </div>
@@ -181,10 +205,12 @@
                         <img src="/images/resources/services-v1-1.jpg" alt="Awesome Image">
                     </div>
                     <div class="text-holder">
-                        <h3>Yacht Charter</h3>
-                        <p>Quo te deseruisse repudiandae orpora suscipit at nam natum altera eripuias eu brute
-                            scriptorem.</p>
-                        <a href="#">Read More</a>
+                        <h3>Cabo 35ft </h3>
+                        <p>
+                            Bare boat 5hr $1100 | 8hr $1300 <br>
+                            All inclusive 5hr $1300 | 8hr $1550 <br><br>
+                        </p>
+                        <a href="#cabo" class="open-popup-link">Read More</a>
                     </div>
                 </div>
             </div>
@@ -196,77 +222,17 @@
                         <img src="/images/resources/services-v1-2.jpg" alt="Awesome Image">
                     </div>
                     <div class="text-holder">
-                        <h3>Boat Rental</h3>
-                        <p>Quo te deseruisse repudiandae orpora suscipit at nam natum altera eripuias eu brute
-                            scriptorem.</p>
-                        <a href="#">Read More</a>
+                        <h3>Bosstom whaler 35ft</h3>
+                        <p>
+                            Bare boat 5hr $1100 | 8hr $1350 <br>
+                            All inclusive 5hr $1350 | 8hr $1500 <br><br>
+                        </p>
+                        <a href="#bosstom" class="open-popup-link">Read More</a>
                     </div>
                 </div>
             </div>
             <!--End Single Service Style1-->
-            <!--Start Single Service Style1-->
-            <div class="col-xl-4 col-lg-4">
-                <div class="single-service-style1">
-                    <div class="img-holder">
-                        <img src="/images/resources/services-v1-3.jpg" alt="Awesome Image">
-                    </div>
-                    <div class="text-holder">
-                        <h3>Daily Cruises</h3>
-                        <p>Quo te deseruisse repudiandae orpora suscipit at nam natum altera eripuias eu brute
-                            scriptorem.</p>
-                        <a href="#">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <!--End Single Service Style1-->
-
-
-
-            <!--Start Single Service Style1-->
-            <div class="col-xl-4 col-lg-4">
-                <div class="single-service-style1">
-                    <div class="img-holder">
-                        <img src="/images/resources/services-v1-1.jpg" alt="Awesome Image">
-                    </div>
-                    <div class="text-holder">
-                        <h3>Yacht Charter</h3>
-                        <p>Quo te deseruisse repudiandae orpora suscipit at nam natum altera eripuias eu brute
-                            scriptorem.</p>
-                        <a href="#">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <!--End Single Service Style1-->
-            <!--Start Single Service Style1-->
-            <div class="col-xl-4 col-lg-4">
-                <div class="single-service-style1">
-                    <div class="img-holder">
-                        <img src="/images/resources/services-v1-2.jpg" alt="Awesome Image">
-                    </div>
-                    <div class="text-holder">
-                        <h3>Boat Rental</h3>
-                        <p>Quo te deseruisse repudiandae orpora suscipit at nam natum altera eripuias eu brute
-                            scriptorem.</p>
-                        <a href="#">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <!--End Single Service Style1-->
-            <!--Start Single Service Style1-->
-            <div class="col-xl-4 col-lg-4">
-                <div class="single-service-style1">
-                    <div class="img-holder">
-                        <img src="/images/resources/services-v1-3.jpg" alt="Awesome Image">
-                    </div>
-                    <div class="text-holder">
-                        <h3>Daily Cruises</h3>
-                        <p>Quo te deseruisse repudiandae orpora suscipit at nam natum altera eripuias eu brute
-                            scriptorem.</p>
-                        <a href="#">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <!--End Single Service Style1-->
+            
 
 
         </div>
@@ -274,93 +240,6 @@
 </section>
 <!--End Services Area-->
 
-<!--Start Sailing Experience Area-->
-<section class="sailing-experience-area">
-    <div class="sec-title black text-center">
-        <div class="icon"><span class="flaticon-rudder"></span></div>
-        <p>Let’s live your unique</p>
-        <div class="big-title black">
-            <h1>Sailing Experience</h1>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-6">
-                <div class="sailing-experience-content-box">
-                    <div class="img-box">
-                        <ul>
-                            <li>
-                                <div class="single-image">
-                                    <img src="/images/resources/sailing-experience-1.jpg" alt="Awesome Image">
-                                </div>
-                            </li>
-                            <li>
-                                <div class="single-image">
-                                    <img src="/images/resources/sailing-experience-2.jpg" alt="Awesome Image">
-                                </div>
-                            </li>
-                            <li>
-                                <div class="single-image">
-                                    <img src="/images/resources/sailing-experience-3.jpg" alt="Awesome Image">
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="text-box">
-                        <p>Lorem Ipsum is simply dummy text of the printing and type setting industry has been the
-                            industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
-                            of type and scrambled to make a type specimen book. </p>
-                        <a class="btn-one" href="#">Discover More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-6">
-                <div class="faq-content-box">
-                    <div class="accordion-box">
-                        <!--Start single accordion box-->
-                        <div class="accordion accordion-block">
-                            <div class="accord-btn active">
-                                <h4>Can we reserve either for groups or individuals</h4>
-                            </div>
-                            <div class="accord-content collapsed">
-                                <p>It has survived not only five centuries but also the leap into electronic type
-                                    setting. lorem ipsum is simply free when an unknown printer took a galley of type
-                                    and scrambled to make specimen book.</p>
-                            </div>
-                        </div>
-                        <!--End single accordion box-->
-                        <!--Start single accordion box-->
-                        <div class="accordion accordion-block">
-                            <div class="accord-btn">
-                                <h4>Who will be responsible of maintenance of boats</h4>
-                            </div>
-                            <div class="accord-content">
-                                <p>It has survived not only five centuries but also the leap into electronic type
-                                    setting. lorem ipsum is simply free when an unknown printer took a galley of type
-                                    and scrambled to make specimen book.</p>
-                            </div>
-                        </div>
-                        <!--End single accordion box-->
-                        <!--Start single accordion box-->
-                        <div class="accordion accordion-block">
-                            <div class="accord-btn">
-                                <h4>Purchasing records and you want to reward him</h4>
-                            </div>
-                            <div class="accord-content">
-                                <p>It has survived not only five centuries but also the leap into electronic type
-                                    setting. lorem ipsum is simply free when an unknown printer took a galley of type
-                                    and scrambled to make specimen book.</p>
-                            </div>
-                        </div>
-                        <!--End single accordion box-->
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-</section>
-<!--End Sailing Experience Area-->
 
 <!--Start Fact Counter Area-->
 <section class="fact-counter-area thm_bgclr3">
@@ -372,30 +251,30 @@
                     data-wow-duration="1500ms">
                     <div class="count-box">
                         <h1>
-                            <span class="timer" data-from="1" data-to="493" data-speed="5000"
-                                data-refresh-interval="50">493</span>
+                            <span class="timer" data-from="1" data-to="10" data-speed="1000"
+                                data-refresh-interval="2">10</span>
                         </h1>
                         <div class="icon"><span class="flaticon-boat"></span></div>
                     </div>
                     <div class="title">
-                        <h3>yachts</h3>
+                        <h3>Yates</h3>
                     </div>
                 </div>
             </div>
             <!--End Single Fact Counter-->
             <!--Start Single Fact Counter-->
             <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12">
-                <div class="single-fact-counter text-left wow fadeInLeft" data-wow-delay="300ms"
+                <div class="single-fact-counter text-left wow fadeInLeft" data-wow-delay="100ms"
                     data-wow-duration="1500ms">
                     <div class="count-box">
                         <h1>
-                            <span class="timer" data-from="1" data-to="1750" data-speed="5000"
-                                data-refresh-interval="50">1750</span>
+                            <span class="timer" data-from="1" data-to="12" data-speed="1000"
+                                data-refresh-interval="2">12</span>
                         </h1>
                         <div class="icon"><span class="flaticon-beach"></span></div>
                     </div>
                     <div class="title">
-                        <h3>destination</h3>
+                        <h3>Actividades</h3>
                     </div>
                 </div>
             </div>
@@ -406,30 +285,30 @@
                     data-wow-duration="1500ms">
                     <div class="count-box">
                         <h1>
-                            <span class="timer" data-from="1" data-to="2158" data-speed="5000"
-                                data-refresh-interval="50">2158</span>
+                            <span class="timer" data-from="1" data-to="435" data-speed="5000"
+                                data-refresh-interval="15">435</span>
                         </h1>
                         <div class="icon"><span class="flaticon-smile"></span></div>
                     </div>
                     <div class="title">
-                        <h3>satisfied</h3>
+                        <h3>Clientes</h3>
                     </div>
                 </div>
             </div>
             <!--End Single Fact Counter-->
             <!--Start Single Fact Counter-->
             <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12">
-                <div class="single-fact-counter text-left wow fadeInLeft" data-wow-delay="700ms"
+                <div class="single-fact-counter text-left wow fadeInLeft" data-wow-delay="100ms"
                     data-wow-duration="1500ms">
                     <div class="count-box">
                         <h1>
-                            <span class="timer" data-from="1" data-to="670" data-speed="5000"
-                                data-refresh-interval="50">670</span>
+                            <span class="timer" data-from="1" data-to="15" data-speed="1000"
+                                data-refresh-interval="2">15</span>
                         </h1>
                         <div class="icon"><span class="flaticon-sailor"></span></div>
                     </div>
                     <div class="title">
-                        <h3>skippers</h3>
+                        <h3>Tripulación</h3>
                     </div>
                 </div>
             </div>
