@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
 
-                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                    <a href="/#contact" class="theme-btn  btn-yellow-transparent fw-600">
                         Contactar
                         <i class="fas fa-long-arrow-alt-right"></i>
                     </a>
@@ -86,7 +86,7 @@
             <div class="col-md-12">
                 <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
 
-                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                    <a href="/#contact" class="theme-btn  btn-yellow-transparent fw-600">
                         Contactar
                         <i class="fas fa-long-arrow-alt-right"></i>
                     </a>
@@ -120,7 +120,7 @@
             <div class="col-md-12">
                 <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
 
-                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                    <a href="/#contact" class="theme-btn  btn-yellow-transparent fw-600">
                         Contactar
                         <i class="fas fa-long-arrow-alt-right"></i>
                     </a>
@@ -153,7 +153,7 @@
             <div class="col-md-12">
                 <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
 
-                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                    <a href="/#contact" class="theme-btn  btn-yellow-transparent fw-600">
                         Contactar
                         <i class="fas fa-long-arrow-alt-right"></i>
                     </a>
@@ -189,7 +189,7 @@
             <div class="col-md-12">
                 <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
 
-                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                    <a href="/#contact" class="theme-btn  btn-yellow-transparent fw-600">
                         Contactar
                         <i class="fas fa-long-arrow-alt-right"></i>
                     </a>
@@ -225,7 +225,7 @@
             <div class="col-md-12">
                 <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
 
-                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                    <a href="/#contact" class="theme-btn  btn-yellow-transparent fw-600">
                         Contactar
                         <i class="fas fa-long-arrow-alt-right"></i>
                     </a>
@@ -265,7 +265,7 @@
             <div class="col-md-12">
                 <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
 
-                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                    <a href="/#contact" class="theme-btn  btn-yellow-transparent fw-600">
                         Contactar
                         <i class="fas fa-long-arrow-alt-right"></i>
                     </a>
@@ -302,7 +302,7 @@
             <div class="col-md-12">
                 <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
 
-                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                    <a href="/#contact" class="theme-btn  btn-yellow-transparent fw-600">
                         Contactar
                         <i class="fas fa-long-arrow-alt-right"></i>
                     </a>
@@ -343,7 +343,7 @@
             <div class="col-md-12">
                 <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
 
-                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                    <a href="/#contact" class="theme-btn  btn-yellow-transparent fw-600">
                         Contactar
                         <i class="fas fa-long-arrow-alt-right"></i>
                     </a>
@@ -383,7 +383,7 @@
             <div class="col-md-12">
                 <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
 
-                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                    <a href="/#contact" class="theme-btn  btn-yellow-transparent fw-600">
                         Contactar
                         <i class="fas fa-long-arrow-alt-right"></i>
                     </a>
@@ -420,7 +420,7 @@
             <div class="col-md-12">
                 <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
 
-                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                    <a href="/#contact" class="theme-btn  btn-yellow-transparent fw-600">
                         Contactar
                         <i class="fas fa-long-arrow-alt-right"></i>
                     </a>
@@ -462,7 +462,7 @@
             <div class="col-md-12">
                 <div class="theme-btn-wrapper mt-50 mt-md-40 mt-sm-30 mt-xs-25 text-center">
 
-                    <a href="/servicios" class="theme-btn  btn-yellow-transparent fw-600">
+                    <a href="/#contact" class="theme-btn  btn-yellow-transparent fw-600">
                         Contactar
                         <i class="fas fa-long-arrow-alt-right"></i>
                     </a>

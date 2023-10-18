@@ -4,7 +4,7 @@
         <div class="container">
             <div class="outer-box">
                 <div class="copyright-text">
-                    <p>© Copyright 2019 by <a href="#">Yacher</a></p>
+                    <p>© Copyright 2023 San José Salty Charter. Diseñado por <a href="https://bananagroup.mx/" target="_blank">Banana Group Marketing</a></p>
                 </div>
             </div>
         </div>
