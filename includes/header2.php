@@ -6,7 +6,7 @@
             <div class="outer-box clearfix">
                 <div class="header-upper-left float-left clearfix">
                     <div class="logo">
-                        <a href="index.html"><img src="images/resources/logo.png" alt="Awesome Logo" title=""></a>
+                        <a href="/"><img  src="/images/resources/logo.png?=1" alt="Awesome Logo" title=""></a>
                     </div>
                 </div>
                 <div class="header-upper-middle float-left clearfix">
@@ -47,8 +47,8 @@
                             <span class="flaticon-smartphone"></span>
                         </div>
                         <div class="title">
-                            <h6>Call Now</h6>
-                            <a href="tel:6668880000">666 888 0000</a>
+                        <h6>Márcanos</h6>
+                            <a href="tel:1234567890">123 456 7890</a>
                         </div>
                     </div>
                 </div>
@@ -66,32 +66,24 @@
                 <!--Top Left-->
                 <div class="header-lawer-left float-left">
                     <ul class="clearfix">
-                        <li><span class="flaticon-pin"></span><b>Address:</b> 66 Broklyn St. New York</li>
-                        <li><span class="flaticon-mail"></span><b>Email:</b> <a
-                                href="mailto:info@templatepath.com">needhelp@yacher.com</a></li>
-                        <li><span class="flaticon-clock"></span><b>Timing:</b> Mon - Fri 09:00am - 07:00pm</li>
+                        <li><span class="flaticon-pin"></span><b>Dirección:</b> Poblado La Playa, San José del Cabo</li>
+                        <li><span class="flaticon-mail"></span><b>Correo:</b> <a
+                                href="mailto:info@sanjosesaltycharter.com">info@sanjosesaltycharter.com</a></li>
+                        <li><span class="flaticon-clock"></span><b>Horarios:</b> Mon - Fri 09:00am - 07:00pm</li>
                     </ul>
                 </div>
                 <!--Top Right-->
                 <div class="header-lawer-right float-right">
-
                     <div class="language-switcher">
                         <div id="polyglotLanguageSwitcher">
                             <form action="#">
                                 <select id="polyglot-language-options">
                                     <option id="en" value="en" selected>English</option>
-                                    <option id="es" value="es">Spanish</option>
+                                    <option id="es" value="es">Español</option>
                                 </select>
                             </form>
                         </div>
                     </div>
-                    <div class="login-signup-box">
-                        <ul>
-                            <li><a href="#">Login</a></li>
-                            <li><a href="#">Sign Up</a></li>
-                        </ul>
-                    </div>
-
                 </div>
             </div>
         </div>
@@ -104,7 +96,7 @@
             <div class="clearfix">
                 <!--Logo-->
                 <div class="logo float-left">
-                    <a href="index.html" class="img-responsive"><img src="images/resources/logo.png" alt=""
+                    <a href="/" class="img-responsive"><img src="/images/resources/logo.png?=1" alt=""
                             title=""></a>
                 </div>
                 <!--Right Col-->
@@ -125,7 +117,7 @@
         <div class="close-btn"><span class="icon flaticon-multiply"></span></div>
 
         <nav class="menu-box">
-            <div class="nav-logo"><a href="index.html"><img src="images/resources/logo.png" alt="" title=""></a></div>
+            <div class="nav-logo"><a href="/"><img src="/images/resources/logo.png?=1" alt="" title=""></a></div>
             <div class="menu-outer">
                 <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             </div>
@@ -133,10 +125,7 @@
             <div class="social-links">
                 <ul class="clearfix">
                     <li><a href="#"><span class="fab fa fa-facebook-square"></span></a></li>
-                    <li><a href="#"><span class="fab fa fa-twitter-square"></span></a></li>
-                    <li><a href="#"><span class="fab fa fa-pinterest-square"></span></a></li>
-                    <li><a href="#"><span class="fab fa fa-google-plus-square"></span></a></li>
-                    <li><a href="#"><span class="fab fa fa-youtube-square"></span></a></li>
+                    <li><a href="#"><span class="fab fa fa-instagram"></span></a></li>
                 </ul>
             </div>
         </nav>

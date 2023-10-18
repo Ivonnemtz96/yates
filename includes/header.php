@@ -24,7 +24,7 @@
                 </div>
                 <div class="header-upper-middle-style2 max-width float-left clearfix">
                     <div class="logo">
-                        <a href="/"><img src="/images/resources/logo.png" alt="Awesome Logo" title=""></a>
+                        <a href="/"><img style="width: 11rem;" src="/images/resources/logo.png?=1" alt="Awesome Logo" title=""></a>
                     </div>
                 </div>
                 <div class="header-upper-right-style2 max-width float-right clearfix">
@@ -93,7 +93,7 @@
             <div class="clearfix">
                 <!--Logo-->
                 <div class="logo float-left">
-                    <a href="/" class="img-responsive"><img src="/images/resources/logo.png" alt=""
+                    <a href="/" class="img-responsive"><img src="/images/resources/logo.png?=1" alt=""
                             title=""></a>
                 </div>
                 <!--Right Col-->
@@ -114,7 +114,7 @@
         <div class="close-btn"><span class="icon flaticon-multiply"></span></div>
 
         <nav class="menu-box">
-            <div class="nav-logo"><a href="/"><img src="/images/resources/logo.png" alt="" title=""></a></div>
+            <div class="nav-logo"><a href="/"><img src="/images/resources/logo.png?=1" alt="" title=""></a></div>
             <div class="menu-outer">
                 <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             </div>
