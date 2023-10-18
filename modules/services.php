@@ -1,17 +1,17 @@
 <!--Start breadcrumb area-->
 <section class="breadcrumb-area"
-    style="background-image: url(/images/breadcrumb/breadcrumb-1.jpg?=1);background-position: bottom;">
+    style="background-image: url(/images/breadcrumb/breadcrumb-1.jpg?=2);background-position: bottom;">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
                 <div class="inner-content clearfix">
                     <div class="title">
-                        <h1>Services</h1>
+                        <h1>Servicios</h1>
                     </div>
                     <div class="breadcrumb-menu">
                         <ul class="clearfix">
-                            <li><a href="index.html">Home</a></li>
-                            <li class="active">Services</li>
+                            <li><a href="/">Inicio</a></li>
+                            <li class="active">Servicios</li>
                         </ul>
                     </div>
                 </div>
@@ -44,7 +44,7 @@
                             water, beer, chips.
                             Gratuities & taxes are not included with either package.
                         </p>
-                        <a href="#salty" class="open-popup-link">Read More</a>
+                        <a href="#salty" class="open-popup-link">Ver características</a>
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                             Bare boat 5hr $300 | 8hr $400 <br>
                             All inclusive 5hr $450 | 8hr $500 <br><br><br>
                         </p>
-                        <a href="#burra" class="open-popup-link">Read More</a>
+                        <a href="#burra" class="open-popup-link">Ver características</a>
                     </div>
                 </div>
             </div>
@@ -81,7 +81,7 @@
                             All inclusive 5hr $430 | 8hr $525 <br><br>
 
                         </p>
-                        <a href="#fortuna" class="open-popup-link">Read More</a>
+                        <a href="#fortuna" class="open-popup-link">Ver características</a>
                     </div>
                 </div>
             </div>
@@ -101,7 +101,7 @@
                             Bare boat 5hr $350 | 8hr $450
                             All inclusive 5hr $460 | 8hr $550
                         </p>
-                        <a href="#yaqueline" class="open-popup-link">Read More</a>
+                        <a href="#yaqueline" class="open-popup-link">Ver características</a>
                     </div>
                 </div>
             </div>
@@ -120,7 +120,7 @@
                             All inclusive 5hr $450 | 8hr $520 <br><br>
 
                         </p>
-                        <a href="#lidia" class="open-popup-link">Read More</a>
+                        <a href="#lidia" class="open-popup-link">Ver características</a>
                     </div>
                 </div>
             </div>
@@ -138,7 +138,7 @@
                             Bare boat 5hr $400 | 8hr $530 <br>
                             All inclusive 5hr $530 | 8hr $600 <br><br>
                         </p>
-                        <a href="#briana" class="open-popup-link">Read More</a>
+                        <a href="#briana" class="open-popup-link">Ver características</a>
                     </div>
                 </div>
             </div>
@@ -157,7 +157,7 @@
                             Bare boat 5hr $500 | 8hr $630 <br>
                             All inclusive 5hr $650 | 8hr $750 <br><br>
                         </p>
-                        <a href="#california" class="open-popup-link">Read More</a>
+                        <a href="#california" class="open-popup-link">Ver características</a>
                     </div>
                 </div>
             </div>
@@ -174,7 +174,7 @@
                             Bare boat 5hr $630 | 8hr $690 <br>
                             All inclusive 5hr $750 | 8hr $850 <br><br>
                         </p>
-                        <a href="#california31" class="open-popup-link">Read More</a>
+                        <a href="#california31" class="open-popup-link">Ver características</a>
                     </div>
                 </div>
             </div>
@@ -191,7 +191,7 @@
                             Bare boat 5hr $900 | 8hr $950 <br>
                             All inclusive 5hr $1050 | 8hr $1200 <br><br>
                         </p>
-                        <a href="#carolina" class="open-popup-link">Read More</a>
+                        <a href="#carolina" class="open-popup-link">Ver características</a>
                     </div>
                 </div>
             </div>
@@ -210,7 +210,7 @@
                             Bare boat 5hr $1100 | 8hr $1300 <br>
                             All inclusive 5hr $1300 | 8hr $1550 <br><br>
                         </p>
-                        <a href="#cabo" class="open-popup-link">Read More</a>
+                        <a href="#cabo" class="open-popup-link">Ver características</a>
                     </div>
                 </div>
             </div>
@@ -227,12 +227,12 @@
                             Bare boat 5hr $1100 | 8hr $1350 <br>
                             All inclusive 5hr $1350 | 8hr $1500 <br><br>
                         </p>
-                        <a href="#bosstom" class="open-popup-link">Read More</a>
+                        <a href="#bosstom" class="open-popup-link">Ver características</a>
                     </div>
                 </div>
             </div>
             <!--End Single Service Style1-->
-            
+
 
 
         </div>
@@ -319,7 +319,7 @@
 <!--End Fact Counter Area-->
 
 <!--Start Discover Area Style3-->
-<section class="discover-area style3" style="background-image:url(/images/parallax-background/discover-bg.jpg);">
+<section class="discover-area style3" style="background-image:url(/images/parallax-background/discover-bg.jpg?=2);">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -342,9 +342,9 @@
     <div class="container">
         <div class="sec-title black">
             <div class="icon"><span class="flaticon-rudder"></span></div>
-            <p>Testimonials</p>
+            <p>Opiniones</p>
             <div class="big-title black">
-                <h1>What Clients Say</h1>
+                <h1>¿Qué dicen nuestros clientes?</h1>
             </div>
         </div>
         <div class="row">
@@ -357,7 +357,7 @@
                                 <div class="img-box">
                                     <div class="bg-color"></div>
                                     <div class="inner">
-                                        <img src="/images/testimonial/tes-v1-1.jpg" alt="Awesome Image">
+                                        <img src="/images/testimonial/tes-v1-1.jpg?=1" alt="Awesome Image">
                                         <div class="overlay-style-one bg1"></div>
                                     </div>
                                     <div class="quote-icon"><img src="/images/icon/quote.png" alt="Quote"></div>
@@ -365,12 +365,11 @@
                             </div>
                             <div class="col-xl-8">
                                 <div class="text-box">
-                                    <p>I had a wonderful time and a lot of fun with Yacher. The staff was especially
-                                        friendly, the boat was great and the meals were delicious I didn’t miss
-                                        anything. This experience gave me another perspective of Halhidiki. I will never
-                                        forget that day and definitely I will do it again. I strongly recommend these
-                                        guys to everyone! Best of luck to the whole crew!</p>
-                                    <h3>Christine Eve <span>/ Customer</span></h3>
+                                    <p>
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos quos, aut
+                                        doloremque harum quis hic adipisci? Perspiciatis quo error rerum.
+                                    </p>
+                                    <h3>Cliente 1</h3>
                                 </div>
                             </div>
                         </div>
@@ -383,7 +382,7 @@
                                 <div class="img-box">
                                     <div class="bg-color"></div>
                                     <div class="inner">
-                                        <img src="/images/testimonial/tes-v1-1.jpg" alt="Awesome Image">
+                                        <img src="/images/testimonial/tes-v1-1.jpg?=1" alt="Awesome Image">
                                         <div class="overlay-style-one bg1"></div>
                                     </div>
                                     <div class="quote-icon"><img src="/images/icon/quote.png" alt="Quote"></div>
@@ -391,12 +390,12 @@
                             </div>
                             <div class="col-xl-8">
                                 <div class="text-box">
-                                    <p>I had a wonderful time and a lot of fun with Yacher. The staff was especially
-                                        friendly, the boat was great and the meals were delicious I didn’t miss
-                                        anything. This experience gave me another perspective of Halhidiki. I will never
-                                        forget that day and definitely I will do it again. I strongly recommend these
-                                        guys to everyone! Best of luck to the whole crew!</p>
-                                    <h3>Christine Eve <span>/ Customer</span></h3>
+                                    <p>
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, ratione
+                                        maxime! Molestias, incidunt. Enim consequatur tempora nostrum accusantium optio
+                                        necessitatibus.
+                                    </p>
+                                    <h3>Cliente 2</h3>
                                 </div>
                             </div>
                         </div>
@@ -409,41 +408,3 @@
     </div>
 </section>
 <!--End Testimonial Area-->
-
-<!--Start Partner Area-->
-<section class="partner-area pdbtm150">
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-12">
-                <div class="partner-box">
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/images/brand/1.png" alt="Awesome Image"></a>
-                    </div>
-                    <!--End Single Partner Logo Box-->
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/images/brand/2.png" alt="Awesome Image"></a>
-                    </div>
-                    <!--End Single Partner Logo Box-->
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/images/brand/3.png" alt="Awesome Image"></a>
-                    </div>
-                    <!--End Single Partner Logo Box-->
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/images/brand/4.png" alt="Awesome Image"></a>
-                    </div>
-                    <!--End Single Partner Logo Box-->
-                    <!--Start Single Partner Logo Box-->
-                    <div class="single-partner-logo-box">
-                        <a href="#"><img src="/images/brand/5.png" alt="Awesome Image"></a>
-                    </div>
-                    <!--End Single Partner Logo Box-->
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--End Partner Area-->
