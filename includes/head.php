@@ -1,6 +1,6 @@
 <head>
     <meta charset="UTF-8">
-    <title>Home Two || Yacher || Responsive HTML 5 Template</title>
+    <title>San José Salty Charters</title>
 
     <!-- responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
