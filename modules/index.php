@@ -15,7 +15,7 @@
                             elegancia se combinan para ofrecerte un viaje de ensueño.
                         </div>
                         <div class="btn-box">
-                            <a href="#">Ver yates</a>
+                            <a href="/services">Ver barcos</a>
                         </div>
                     </div>
                 </div>
@@ -29,7 +29,7 @@
                         <div class="big-title"> Disfruta de la mejor vista <br> en Los Cabos</div>
                         <div class="text">TNavega con estilo, navega con nosotros. Descubre el lujo en el mar.</div>
                         <div class="btn-box">
-                            <a href="#">Ver servicios</a>
+                            <a href="/services">Ver barcos</a>
                         </div>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
                                 bordo te ayudará a planificar cada detalle, desde la elección del yate hasta la
                                 selección de actividades y experiencias.
                             </p>
-                            <a class="btn-one" href="#">¡Reservar ahora!</a>
+                            <a class="btn-one" href="/#contact">¡Reservar ahora!</a>
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                         </li>
                         <li>
                             <div class="icon"><span class="flaticon-gps"></span></div>
-                            <h3><a href="#">vista a las ballenas</a></h3>
+                            <h3><a href="#">Avistamiento de ballenas</a></h3>
                             <div class="count">03</div>
                         </li>
                         <li>
@@ -110,93 +110,59 @@
     <div class="container">
         <div class="sec-title black text-center">
             <div class="icon"><span class="flaticon-rudder"></span></div>
-            <p>Nuestros barcos populares</p>
+            <p>¿No sabes que actividad reservar?</p>
             <div class="big-title black">
-                <h1>Yachts for Charter</h1>
+                <h1>San José Salty Charter</h1>
             </div>
         </div>
         <div class="row">
-            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
-                <!--Start Single Yachts Box-->
-                <div class="siingle-yachts-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <!--Start Single Destinations Box-->
+                <div class="single-destination-box wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/images/yachts/yachts-1.jpg?=1" alt="Awesome Image">
-                            <div class="overlay-style-one bg1"></div>
-                        </div>
-                        <div class="rate-box thm-bgclr1">
-                            <h5>$780</h5>
-                            <h6>Week</h6>
-                        </div>
-                    </div>
-                    <div class="title-holder">
-                        <h2><a href="yachts-details.html">Maestrale</a></h2>
-                        <span>Italy Ocean</span>
-                        <div class="meta-box">
-                            <ul>
-                                <li><span class="flaticon-art-and-design"></span>89 ft</li>
-                                <li><span class="flaticon-boat-1"></span>4 cabins</li>
-                                <li><span class="flaticon-user"></span>2 berths</li>
-                            </ul>
+                            <img src="images/resources/3.jpg" alt="Awesome Image">
+                            <div class="overlay-title">
+                                <h1><a href="/#contact">Pesca deportiva</a></h1>
+                                <p>todo el día | medio día | en la tarde</p>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <!--End Single Yachts Box-->
+                <!--End Single Destinations Box-->
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
-                <!--Start Single Yachts Box-->
-                <div class="siingle-yachts-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <!--Start Single Destinations Box-->
+                <div class="single-destination-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/images/yachts/yachts-2.jpg?=1" alt="Awesome Image">
-                            <div class="overlay-style-one bg1"></div>
-                        </div>
-                        <div class="rate-box thm-bgclr1">
-                            <h5>$400</h5>
-                            <h6>8 horas</h6>
-                        </div>
-                    </div>
-                    <div class="title-holder">
-                        <h2><a href="yachts-details.html">La burra vieja</a></h2>
-                        <span>Bare boat</span>
-                        <div class="meta-box">
-                            <ul>
-                                <li><span class="flaticon-art-and-design"></span>89 ft</li>
-                                <li><span class="flaticon-boat-1"></span>4 cabins</li>
-                                <li><span class="flaticon-user"></span>2 berths</li>
-                            </ul>
+                            <img src="images/resources/1.jpg" alt="Awesome Image">
+                            <div class="overlay-title">
+                                <h1><a href="/#contact">avistamiento de ballenas</a></h1>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <!--End Single Yachts Box-->
+                <!--End Single Destinations Box-->
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
-                <!--Start Single Yachts Box-->
-                <div class="siingle-yachts-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <!--Start Single Destinations Box-->
+                <div class="single-destination-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="img-holder">
                         <div class="inner">
-                            <img src="/images/yachts/yachts-3.jpg?=1" alt="Awesome Image">
-                            <div class="overlay-style-one bg1"></div>
-                        </div>
-                        <div class="rate-box thm-bgclr1">
-                            <h5>$470</h5>
-                            <h6>Week</h6>
-                        </div>
-                    </div>
-                    <div class="title-holder">
-                        <h2><a href="yachts-details.html">Lauren</a></h2>
-                        <span>Italy Ocean</span>
-                        <div class="meta-box">
-                            <ul>
-                                <li><span class="flaticon-art-and-design"></span>89 ft</li>
-                                <li><span class="flaticon-boat-1"></span>4 cabins</li>
-                                <li><span class="flaticon-user"></span>2 berths</li>
-                            </ul>
+                            <img src="images/resources/2.jpg" alt="Awesome Image">
+                            <div class="overlay-title">
+                                <h1><a href="/#contact">Snorkel</a></h1>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <!--End Single Yachts Box-->
+                <!--End Single Destinations Box-->
             </div>
+
+
+
         </div>
     </div>
 </section>
@@ -244,7 +210,7 @@
                             naranjas, podrás relajarte en la cubierta de nuestro yate y disfrutar de la belleza que solo
                             Los Cabos puede ofrecer.
                         </p>
-                        <a class="btn-one" href="#">¡Reservar ahora!</a>
+                        <a class="btn-one" href="/#contact">¡Reservar ahora!</a>
                     </div>
                 </div>
             </div>
@@ -450,7 +416,7 @@
                         <div class="box">
                             <div class="content">
                                 <div class="inner thm-bgclr1">
-                                    <h2>Live your unique<br> sailing experience.</h2>
+                                    <h2>Vive tu experiencia <br> en Los Cabos.</h2>
                                 </div>
                             </div>
                         </div>
@@ -463,81 +429,6 @@
 </section>
 <!--End Choose Area-->
 
-<!--Start Services Area-->
-<div class="sec-title black text-center" style="padding-bottom:0; margin-top:3rem;">
-    <div class="icon"><span class="flaticon-rudder"></span></div>
-    <p>Hecha un vistazo a nuestros</p>
-    <div class="big-title black">
-        <h1>Embarcaciones más populares</h1>
-    </div>
-</div>
-<section class="services-area">
-
-    <div class="container">
-
-        <div class="row justify-content-center">
-            <!--Start Single Service Style1-->
-            <div class="col-xl-4 col-lg-4">
-                <div class="single-service-style1">
-                    <div class="img-holder">
-                        <img src="images/resources/services-v1-1.jpg?=!" alt="Awesome Image">
-                    </div>
-                    <div class="text-holder">
-                        <h3>Catamarán</h3>
-                        <p>
-                            Este magnífico catamarán ha sido diseñado pensando en la máxima satisfacción de nuestros
-                            pasajeros y ofrece un ambiente ideal para una variedad de actividades en el agua. <br><br>
-                        </p>
-                        <a href="#">Reservar ahora</a>
-                    </div>
-                </div>
-            </div>
-            <!--End Single Service Style1-->
-            <!--Start Single Service Style1-->
-            <div class="col-xl-4 col-lg-4">
-                <div class="single-service-style1">
-                    <div class="img-holder">
-                        <img src="images/resources/services-v1-2.jpg?=!" alt="Awesome Image">
-                    </div>
-                    <div class="text-holder">
-                        <h3>Bare Boat</h3>
-                        <p>
-                            Navegar a bordo de nuestro bareboat es la oportunidad perfecta para los
-                            amantes de la navegación que desean experimentar la libertad de explorar Los Cabos. Este
-                            barco, te brinda la posibilidad de crear tu propia aventura en el mar.
-                        </p>
-                        <a href="#">Reservar ahora</a>
-                    </div>
-                </div>
-            </div>
-            <!--End Single Service Style1-->
-            <!--Start Single Service Style1-->
-            <div class="col-xl-4 col-lg-4">
-                <div class="single-service-style1">
-                    <div class="img-holder">
-                        <img src="images/resources/services-v1-3.jpg?=!" alt="Awesome Image">
-                    </div>
-                    <div class="text-holder">
-                        <h3>Super Panga</h3>
-                        <p>
-                            Es la elección ideal para aquellos que buscan una
-                            experiencia de pesca y exploración costera emocionante y auténtica en los hermosos mares de
-                            Los Cabos. <br><br><br><br>
-                        <a href="#">Reservar ahora</a>
-                    </div>
-                </div>
-            </div>
-            <!--End Single Service Style1-->
-            <div class="col-md-3 text-center">
-                <div class="button">
-                    <a class="btn-one" href="#">Ver más yates</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--End Services Area-->
-
 <!--Start Slogan Area-->
 <section class="slogan-area style2">
     <div class="container">
@@ -548,7 +439,7 @@
                         <h1>Ofrecemos servicios de alta calidad</h1>
                     </div>
                     <div class="button">
-                        <a class="btn-one" href="#">¡Reservar ahora!</a>
+                        <a class="btn-one" href="/#contact">¡Reservar ahora!</a>
                     </div>
                 </div>
             </div>
@@ -556,3 +447,162 @@
     </div>
 </section>
 <!--End Slogan Area-->
+
+
+<!--Start Services Area-->
+<div class="sec-title black text-center" style="padding-bottom:0; margin-top:3rem;">
+    <div class="icon"><span class="flaticon-rudder"></span></div>
+    <p>Hecha un vistazo a nuestros</p>
+    <div class="big-title black">
+        <h1>Embarcaciones más populares</h1>
+    </div>
+</div>
+<section class="services-area">
+    <div class="container">
+        <div class="row justify-content-center">
+            <!--Start Single Service Style1-->
+            <div class="col-xl-4 col-lg-4">
+                <div class="single-service-style1">
+                    <div class="img-holder">
+                        <img src="/images/resources/services-v1-1.jpg" alt="Awesome Image">
+                    </div>
+                    <div class="text-holder">
+                        <h3>San Jose Salty Charter</h3>
+                        <span>Bare boat</span>
+                        <p>
+                            Save time with all inclusive.
+                            All inclusive : live bait, ice , fishing licenses, box lunch, drinks, sodas, Gatorade,
+                            water, beer, chips.
+                            Gratuities & taxes are not included with either package.
+                        </p>
+                        <a href="#salty" class="open-popup-link">Ver características</a>
+                    </div>
+                </div>
+            </div>
+            <!--End Single Service Style1-->
+            <!--Start Single Service Style1-->
+            <div class="col-xl-4 col-lg-4">
+                <div class="single-service-style1">
+                    <div class="img-holder">
+                        <img src="/images/resources/services-v1-2.jpg" alt="Awesome Image">
+                    </div>
+                    <div class="text-holder">
+                        <h3>La burra vieja</h3>
+                        <span>Super panga 25´´ft to 26´´ft</span>
+                        <p>
+                            Bare boat 5hr $300 | 8hr $400 <br>
+                            All inclusive 5hr $450 | 8hr $500 <br><br><br>
+                        </p>
+                        <a href="#burra" class="open-popup-link">Ver características</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-4 col-lg-4">
+                <div class="single-service-style1">
+                    <div class="img-holder">
+                        <img src="/images/resources/services-v1-3.jpg" alt="Awesome Image">
+                    </div>
+                    <div class="text-holder">
+                        <h3>Fortuna 2</h3>
+                        <p>
+                            Super panga 26¨ <br>
+                            Bare boat 5hr $330 | 8hr $430 <br>
+                            All inclusive 5hr $430 | 8hr $525 <br><br>
+
+                        </p>
+                        <a href="#fortuna" class="open-popup-link">Ver características</a>
+                    </div>
+                </div>
+            </div>
+            <!--End Single Service Style1-->
+            <div class="col-md-3 text-center">
+                <div class="button">
+                    <a class="btn-one" href="/services">Ver más barcos</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End Services Area-->
+
+
+
+<!--Start Contact Form Section-->
+<section class="contact-form-area p-0">
+    <div class="auto-container" id="contact">
+        <div class="row clearfix">
+            <div class="col-xl-7 col-lg-12 col-md-12">
+                <div class="contact-information-box">
+                    <div class="title">
+                        <span>Contáctanos</span>
+                        <h1>¿Tienes alguna pregunta?</h1>
+                    </div>
+                    <ul class="contact-us">
+                        <li>
+                            <p>Márcanos</p>
+                            <a href="tel:1234567890">132 456 7890</a>
+                        </li>
+                        <li>
+                            <p>Mándanos correo:</p>
+                            <a href="mailto:info@sanjosesaltycharter.com">info@sanjosesaltycharter.com</a>
+                        </li>
+                    </ul>
+                    <ul class="social-links-style1 fix">
+                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xl-5 col-lg-12 col-md-12">
+                <div class="contact-form">
+                    <div class="title text-center">
+                        <i class="flaticon-rudder"></i>
+                        <span>Formulario</span>
+                        <h2>Escríbenos un<br> Mensaje</h2>
+                    </div>
+                    <div class="inner-box">
+                        <form id="contact-form" name="contact_form" class="default-form2" action=""method="">
+                            <div class="input-box">
+                                <input type="text" name="form_name" value="" placeholder="Nombre" required="">
+                            </div>
+                            <div class="input-box">
+                                <input type="email" name="form_email" value="" placeholder="Correo" required="">
+                            </div>
+                            <div class="input-box">
+                                <input type="text" name="form_subject" value="" placeholder="Asunto" required="">
+                            </div>
+                            <div class="input-box">
+                                <input type="text" name="form_phone" value="" placeholder="Teléfono" required="">
+                            </div>
+                            <div class="input-box">
+                                <textarea name="form_message" placeholder="Mensaje" required=""></textarea>
+                            </div>
+                            <div class="button-box text-center">
+                                <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden"
+                                    value="">
+                                <button type="submit" data-loading-text="Please wait...">Enviar</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d777.3278527000635!2d-109.67166599718253!3d23.059962972228007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjPCsDAzJzM2LjAiTiAxMDnCsDQwJzE0LjQiVw!5e0!3m2!1ses!2smx!4v1697662384054!5m2!1ses!2smx"
+        width="100%" height="650" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+</section>
+<!--End Contact Form Section-->
+
+
+
+
+
+
+<?
+    include("detallesServ.php");
+?>

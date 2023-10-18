@@ -48,8 +48,6 @@
                     </div>
                 </div>
             </div>
-            <!--End Single Service Style1-->
-            <!--Start Single Service Style1-->
             <div class="col-xl-4 col-lg-4">
                 <div class="single-service-style1">
                     <div class="img-holder">
@@ -66,8 +64,6 @@
                     </div>
                 </div>
             </div>
-            <!--End Single Service Style1-->
-            <!--Start Single Service Style1-->
             <div class="col-xl-4 col-lg-4">
                 <div class="single-service-style1">
                     <div class="img-holder">
@@ -85,7 +81,6 @@
                     </div>
                 </div>
             </div>
-            <!--End Single Service Style1-->
 
 
             <!--Start Single Service Style1-->
